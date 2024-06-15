@@ -38,6 +38,4 @@ height="60"/>&nbsp;
 ![c4ad0f64923ed4dd49155041933b8515](https://github.com/YampolAl/YampolAl/assets/156104310/cb9408bb-da39-45b5-a378-fc3711249e0a)
 ---
 
-## Stats:
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YampolAl&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=950)](https://git.io/streak-stats)
