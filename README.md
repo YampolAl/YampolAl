@@ -18,8 +18,6 @@
 
 ---
 
-## IDE, Languages and Tools:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
@@ -37,7 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>&nbsp;
 </div>
   
-
 ---
 ![c4ad0f64923ed4dd49155041933b8515](https://github.com/YampolAl/YampolAl/assets/156104310/cb9408bb-da39-45b5-a378-fc3711249e0a)
 ---
