@@ -19,7 +19,10 @@
 
 ## IDE, Languages and Tools:
 
-<div>
+<!DOCTYPE html>
+<html>
+<body>
+<div style="background-color: white>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60"
 height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
@@ -33,6 +36,9 @@ height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
+  
+</body>
+</html>
 
 ---
 ![c4ad0f64923ed4dd49155041933b8515](https://github.com/YampolAl/YampolAl/assets/156104310/cb9408bb-da39-45b5-a378-fc3711249e0a)
