@@ -18,7 +18,7 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div style="background-color: #f2f2f2; padding: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60"
 height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
