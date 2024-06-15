@@ -33,3 +33,7 @@ height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YampolAl&theme=react&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
