@@ -11,5 +11,5 @@
 ![c4ad0f64923ed4dd49155041933b8515 — копия](https://github.com/YampolAl/YampolAl/assets/156104310/3f24cef4-03b1-453f-a3f3-c8d5a907a33a)
 ---
 
-[![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
-[![](https://img.shields.io/static/v1?style=flat&message=gmail.com&color=red&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail.com&color=red&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
