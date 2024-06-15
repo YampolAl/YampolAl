@@ -17,7 +17,7 @@
 
 ---
 
-## IDE, Languages and Tools :
+## IDE, Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60"
@@ -36,4 +36,6 @@ height="60"/>&nbsp;
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YampolAl&theme=react&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+## Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YampolAl&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D&card_width=795)](https://git.io/streak-stats)
