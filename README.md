@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=blue&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=blue&logo=codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/YampolAl)
+![](https://komarev.com/ghpvc/?username=YampolAl&style=for-the-badge)
 
 ---
 
@@ -45,3 +46,6 @@ height="60"/>&nbsp;
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YampolAl&theme=windows-dark&date_format=j%2Fn%5B%2FY%5D&card_width=950)](https://git.io/streak-stats)
+
+---
+
