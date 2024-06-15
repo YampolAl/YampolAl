@@ -13,7 +13,7 @@
 
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail.com&color=blue&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=blue&logo=codewars)](https://www.codewars.com/users/YampolAl)
+[![](https://img.shields.io/badge/v1?style=for-the-badge&message=Codewars&color=blue&logo=codewars)](https://www.codewars.com/users/YampolAl)
 
 ---
 
