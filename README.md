@@ -8,7 +8,8 @@
 </div>
 
 ---
-![c4ad0f64923ed4dd49155041933b8515](https://github.com/YampolAl/YampolAl/assets/156104310/cb9408bb-da39-45b5-a378-fc3711249e0a)
+![c4ad0f64923ed4dd49155041933b8515 — копия](https://github.com/YampolAl/YampolAl/assets/156104310/3f24cef4-03b1-453f-a3f3-c8d5a907a33a)
 ---
 
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
+
