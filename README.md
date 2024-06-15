@@ -6,3 +6,4 @@
 ---
 
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
+![c4ad0f64923ed4dd49155041933b8515](https://github.com/YampolAl/YampolAl/assets/156104310/79df0dc8-8f1a-401f-b357-29c5ca828b95)
