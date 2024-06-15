@@ -12,4 +12,4 @@
 ---
 
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail.com&color=#4287f5&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail.com&color=blue&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://accum690@gmail.com)
