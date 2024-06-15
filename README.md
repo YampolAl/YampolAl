@@ -6,4 +6,4 @@
 
 ---
 
-[![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
+[![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
