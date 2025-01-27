@@ -7,8 +7,7 @@
 ---
 
 [![](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/YampolAl)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=blue&logo=Google+Chrome&logoColor=FFFFFF&label=)](yampolal.work@gmail.com)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=blue&logo=codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/YampolAl)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=blue&logo=Google+Chrome&logoColor=FFFFFF&label=)](mailto:yampolal.work@gmail.com)
 ![](https://komarev.com/ghpvc/?username=YampolAl&style=for-the-badge)
 
 ---
